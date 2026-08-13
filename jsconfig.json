@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    
+    "allowJs": true,
+    
+    "noEmit": true,
+    
+    "strict": true,
+    
+    "module": "commonjs",
+    
+    "resolveJsonModule": true,
+    
+    "allowSyntheticDefaultImports": true,
+    
+    "skipLibCheck": true
+  },
+  
+  "include": [
+    "src/**/*.js",
+    "src/**/*.jsx"
+  ],
+
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build"
+  ]
+}

@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         PerCheatNext
+// @namespace    http://anic.cc.cd/Percheat
+// @version      1.0.0
+// @description  Percheat 
+// @author       mje-7694
+// @icon         https://psteam.pages.dev/public/icon.png
+// @match        *://*/*
+// @grant        GM_addStyle
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_registerMenuCommand
+// @grant        GM_unregisterMenuCommand
+// @grant        GM_notification
+// ==/UserScript==
